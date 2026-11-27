@@ -2,6 +2,6 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "framework": "hugo",
   "installCommand": "pnpm install --no-frozen-lockfile",
-  "buildCommand": "hugo --gc --minify && pnpm run pagefind",
+  "buildCommand": "bash build.sh",
   "outputDirectory": "public"
 }
