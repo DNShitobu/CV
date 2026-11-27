@@ -98,3 +98,9 @@ skills:
       - label: Community outreach and partnerships
       - label: Mozilla Common Voice and speech data
       - label: Training and capacity building
+  - name: Soft skills
+    items:
+      - label: Student leadership
+      - label: Teaching and mentoring
+      - label: Public speaking and presenting
+      - label: Community building
