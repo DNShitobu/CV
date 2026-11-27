@@ -1,0 +1,100 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Mohammed Kamal-Deen Fuseini
+  given: Mohammed Kamal-Deen
+  family: Fuseini
+  alternate: ''
+  pronunciation: ''
+  pronouns: ''
+postnominals: []
+status:
+  icon: ''
+role: Educator, cybersecurity researcher and Wikimedia organizer
+bio: |
+  I teach at a secondary school with the Ghana Education Service and I'm an MPhil candidate in Cybersecurity and Digital Forensics in Tamale, Ghana. My research is on detecting deepfake video. I also work on getting Dagbani and other Gur/Mabia languages onto Wikipedia and Wikidata.
+
+affiliations:
+  - name: Ghana Education Service
+    url: ''
+
+links:
+  - icon: at-symbol
+    url: mailto:fuseinikamaldeen@gmail.com
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/DNShitobu
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/mohammed-kamal-deen-fuseini-946242122/
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0003-0140-4878
+  - icon: brands/x
+    url: https://x.com/dnshitobu
+  - icon: hero/globe-alt
+    url: https://meta.wikimedia.org/wiki/User:Dnshitobu
+    label: Wikimedia
+
+interests:
+  - Cybersecurity and AI (deepfake detection, digital forensics)
+  - Language digitization (NLP, corpus building, voice data)
+  - Open knowledge (Wikipedia and Wikidata)
+  - Gender and equity in digital spaces
+  - Biodiversity and local ecological knowledge
+  - Internet governance and digital rights
+
+education:
+  - degree: MPhil, Cybersecurity and Digital Forensics
+    institution: Graduate School, Ghana
+    start: "2023"
+    summary: |
+      Researching hybrid multi-modal deep learning frameworks for deepfake video detection. Chapters 1 and 2 are complete.
+
+experience:
+  - role: Wikimedian in Residence and community leader
+    org: Wikimedia Foundation, Dagbani Wikimedians User Group
+    start: 2021-01-01
+    summary: |
+      Wikimedian in Residence for the Wikidata for Education project (Ghana pilot). Co-lead of the Gurene Wikimedia Community and co-founder of the Igala Wikimedia Community in Nigeria. Language Lead for the Ghanaian Wikimedia Language Communities Meetup, 2023-24.
+  - role: Professional Teacher
+    org: Ghana Education Service
+    start: 2019-01-01
+    summary: |
+      Teaching at secondary school level and bringing ICT, digital literacy and open knowledge tools into the classroom. Supporting student leadership.
+  - role: Language activist and presenter
+    org: Global Voices, Rising Voices, UNESCO
+    start: 2019-01-01
+    summary: |
+      Presented on Dagbani digital activism at programs funded by Global Voices, Rising Voices and UNESCO. Completed Rising Voices and heritage-institution courses on language revitalization.
+  - role: Ghana School of Internet Governance Fellow
+    org: GIFEC, Internet Society
+    start: 2022-01-01
+    end: 2022-12-31
+    summary: |
+      Fellowship covering internet governance policy, digital rights and the governance of emerging technology in Africa.
+
+skills:
+  - name: Technical
+    items:
+      - label: Python
+      - label: JavaScript, HTML and CSS
+      - label: Go
+      - label: REST API design
+      - label: Deep learning and computer vision
+      - label: Natural language processing
+  - name: Research
+    items:
+      - label: PRISMA systematic reviews
+      - label: Academic writing and publication
+      - label: Digital forensics investigation
+      - label: Data analysis and visualization
+      - label: Cybersecurity principles
+      - label: Multimedia deepfake analysis
+  - name: Language and community
+    items:
+      - label: Wikipedia and Wikidata editing
+      - label: Dagbani language and linguistics
+      - label: Grant writing and management
+      - label: Community outreach and partnerships
+      - label: Mozilla Common Voice and speech data
+      - label: Training and capacity building
